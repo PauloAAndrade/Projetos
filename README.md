@@ -5,12 +5,11 @@
 Este repositório contém os materiais desenvolvidos ao longo das sprints do projeto.  
 Abaixo você encontra os links para os arquivos `README.md` de cada sprint:
 
-## 📂 Sprints
+## 📊 Projetos de Machine Learning
 
-- [Planos(RandomForest)](./Sprint%208/README.md)
-- [ChurnBancario(RandomForest](./Sprint%209/README.md)
-- [PrediçaodeLucro](./Sprint%2010/README.md)
-
+- 🔹 [Previsão de Planos – Random Forest](./Sprint%208/README.md)
+- 🔹 [Churn Bancário – Random Forest](.ChurnBancario(RandomForest/README.md)
+- 🔹 [Predição de Lucro – Regressão](./Sprint%2010/README.md)
 ---
 
 ## 📖 Estrutura de Pastas
